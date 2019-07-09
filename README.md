@@ -25,3 +25,6 @@ NMF code:
 % Copyright 2008-2009 by Jingu Kim and Haesun Park,
 %                        School of Computational Science and Engineering,
 %                        Georgia Institute of Technology
+so pay attention to cite it.
+
+Read stft_nmf.md first before you use it.
