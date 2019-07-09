@@ -8,4 +8,5 @@ this code is programmed for sparse envelope spectrum. if you use it
 the nmf code was not designed by us, you can change the function by other algorithms.
 
 so pay attention to cite it.
+
 Read stft_nmf.md first before you use it.
