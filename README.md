@@ -10,7 +10,7 @@
 
 so pay attention to cite the algorithm if you just use the nmf in the stft_nmf file.
 
-The decomposition of the time-frequency representation may cost most of the times, so a good decomposition algorithm is needed.
+The decomposition of the time-frequency representation may cost most of the time, so a good decomposition algorithm is needed.
 
 
 4. Read stft_nmf.md first before you use it.
