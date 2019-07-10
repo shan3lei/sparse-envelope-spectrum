@@ -6,19 +6,18 @@
  for Feature Extraction of Bearing Faults Based on NMF[J]. Applied
  Science-basel. 2019, 9(4): 755."
 
-<<<<<<< HEAD
+
 The nmf code was not designed by us, you can change the function by other algorithms.
 
 so pay attention to cite the algorithm if you just use the nmf in the stft_nmf file.
 
 The decomposition of the time-frequency representation may cost most of the times, so a good decomposition algorithm is needed.
-=======
+
 3. the nmf code was not designed by us, you can change the function by other algorithms.
 
 so pay attention to cite the algorithm if you just use the nmf in the stft_nmf file.
 
 4. Read stft_nmf.md first before you use it.
->>>>>>> 0a19263aee574cfe770891ab8481bb72c42069be
 
 
 
