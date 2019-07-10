@@ -1,13 +1,16 @@
 # sparse-envelope-spectrum
-Test
-this code is programmed for sparse envelope spectrum（the details are shown in pdf）. if you use it
+1. Just test, please donot contact with me if any questions about details.
+
+2. this code is programmed for sparse envelope spectrum（the details are shown in pdf）. if you use it
  ,please cite   "L. Liang, L. Shan, F. Liu, B. Niu, G. Xu, Sparse Envelope  Spectra
  for Feature Extraction of Bearing Faults Based on NMF[J]. Applied
  Science-basel. 2019, 9(4): 755."
 
-the nmf code was not designed by us, you can change the function by other algorithms.
+3. the nmf code was not designed by us, you can change the function by other algorithms.
 
 so pay attention to cite the algorithm if you just use the nmf in the stft_nmf file.
+
+4. Read stft_nmf.md first before you use it.
 
 
 
@@ -27,4 +30,4 @@ NMF code:
 %                        Georgia Institute of Technology
 so pay attention to cite it.
 
-Read stft_nmf.md first before you use it.
+
